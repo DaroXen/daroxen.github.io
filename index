@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web App con Bot Integrado</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Soy el gurú de las finanzas</h1>
+        <p>Preguntame lo que quieras:</p>
+        <iframe src="https://app.paal.ai/cs?bid=e933e772" class="bot-frame"></iframe>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
